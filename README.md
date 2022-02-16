@@ -37,7 +37,7 @@ e para realizar isso é bem simples. Abra o visual Studio code(ou qual quer edit
 Depois que o processo termina uma pasta e um arquivo json aparecerá no seu projeto.
 
 ### link do conteudo: 
-[manumexp](https://manumexp.wordpress.com/2013/12/10/jquery-compressed-vs-uncompressed-versions/).
+[manumexp](https://manumexp.wordpress.com/2013/12/10/jquery-compressed-vs-uncompressed-versions/)
  
 ### link para fazer download do jquery: 
-[jquery.com](https://jquery.com/).
+[jquery.com](https://jquery.com/)

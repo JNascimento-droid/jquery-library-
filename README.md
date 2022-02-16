@@ -41,3 +41,5 @@ Depois que o processo termina uma pasta e um arquivo json aparecerá no seu proj
  
 ### link para fazer download do jquery: 
 [jquery.com](https://jquery.com/).
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JNascimento-droid&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)

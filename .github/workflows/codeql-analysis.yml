@@ -18,12 +18,12 @@ on:
     # The branches below must be a subset of the branches above
     branches: [ main ]
   schedule:
-    - cron: '42 10 * * 5'
+    - cron: ''
 
 jobs:
   analyze:
-    name: Analyze
-    runs-on: ubuntu-latest
+    name: jNascimento-droid
+    runs-on: windows-latest
     permissions:
       actions: read
       contents: read

@@ -1,4 +1,7 @@
- # Jquery-library
+ <h1 align="center"> Jquery-library</h1>
+ <img align = "left" src="https://img.shields.io/github/license/JNascimento-droid/jquery-library-">
+ <img align = "left" src="https://img.shields.io/badge/biblioteca%20-jquery-blue">
+ <img src = "https://img.shields.io/badge/vers%C3%A3o%20jquery%20-3.6.0%20-blue">
  
  <br> <br>
  
